@@ -1,0 +1,28 @@
+.personTitle {
+    font-size: 23px;
+    text-align: left;
+}
+
+.personComment {
+    text-align: left;
+}
+
+.selecter {
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 1px;
+}
+
+.option {
+    height: 40px;
+    font-size: 18px;
+}
+
+.personform {
+    margin-bottom: 60px;
+    padding-top: 0px;
+}
+
+.selecterbtn {
+    margin-top: 0px;
+}

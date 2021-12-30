@@ -1,0 +1,49 @@
+ul {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+}
+
+.signicon {
+    border-radius: 20px;
+    width: 60px;
+    margin: 12px;
+    transition: 1s;
+    justify-content: center;
+    align-items: center;
+}
+
+.signicon:hover {
+    opacity: 0.3;
+}
+
+.signimage {
+    background: linear-gradient(to bottom, rgb(41, 41, 83), rgb(195, 21, 195) );
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.sign_name {
+    color: #fff;
+    font-size: 20px;
+}
+
+.signTitle {
+    font-size: 26px;
+}
+
+.signComment {
+    text-align: left;
+}
